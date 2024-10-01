@@ -1,5 +1,5 @@
-   title: 我的博客
-   description: 这是我的个人博客
-   theme: jekyll-theme-slate
-   plugins:
-     - jekyll-feed
+title: 我的博客
+description: 这是我的个人博客
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
