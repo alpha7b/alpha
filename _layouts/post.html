@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+</head>
+<body>
+    <header>
+        <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
+    </header>
+    <main>
+        <article>
+            <h1>{{ page.title }}</h1>
+            <div class="post-date">{{ page.date | date: "%B %d, %Y" }}</div>
+            <div class="post-content">
+                {{ content }}
+            </div>
+        </article>
+    </main>
+    <footer>
+        <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+    </footer>
+</body>
+</html>
