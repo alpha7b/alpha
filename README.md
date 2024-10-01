@@ -3,7 +3,7 @@
 本项目使用GitHub Pages的内置主题Slate创建了个人学习的网站:
 https://pages-themes.github.io/slate/
 
-下面链接是所有的内置主题，可以通过更改_config.yml里的theme来更改主题。
+下面链接是所有的内置主题，可以通过更改_config.yml里的theme来更改主题:
 https://pages.github.com/themes/
 
 ## Layout
