@@ -1,10 +1,21 @@
 title: My Awesome Site
-description: This is my awesome website built with Jekyll and hosted on GitHub Pages.
-# Set your preferred theme here. For example, using "minima" theme
-theme: minima
-baseurl: "" # If you're using a custom domain, set the appropriate base URL
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my awesome description.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alpha7b.github.io/alpha" # Replace <username> and <repository>
+twitter_username: your_twitter
+github_username:  your_github
 
-# Other optional configuration
+theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
