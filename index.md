@@ -21,3 +21,4 @@ title: Home
 ## About
 
 [Learn more about me on the About page](about.html).
+![image](https://github.com/user-attachments/assets/cee35a5e-162c-4482-8ebf-b071c4b606ef)
