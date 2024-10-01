@@ -34,25 +34,6 @@ title: Home
 
 这是一个使用 GitHub Pages 创建的简单网站，用于展示 Markdown 文件的各种格式和功能。
 
-## 功能列表
-
-* **快速搭建**：无需服务器或复杂配置，只需创建仓库并上传内容。
-* **自动更新**：提交新的 Markdown 文件后，网站内容会自动更新。
-* **支持多种格式**：支持标题、列表、代码块、图片等多种格式。
-
-## 示例代码
-
-你可以在这里展示一些示例代码：
-
-```javascript
-// JavaScript 示例代码
-function greet(name) {
-    return `Hello, ${name}!`;
-}
-
-console.log(greet('World'));
-```
-
 ## 表格
 
 | 名称 | 年龄 | 城市 |
