@@ -1,0 +1,10 @@
+title: My Awesome Site
+description: This is my awesome website built with Jekyll and hosted on GitHub Pages.
+# Set your preferred theme here. For example, using "minima" theme
+theme: minima
+baseurl: "" # If you're using a custom domain, set the appropriate base URL
+url: "https://alpha7b.github.io/alpha" # Replace <username> and <repository>
+
+# Other optional configuration
+plugins:
+  - jekyll-feed
